@@ -1,5 +1,5 @@
 # Results
-The JSON and BSON results. **BSON takes about 1ms more** to process the same amount of data. The same advantage is in payload size where **BSON is about 15% smaller than JSON**.
+**BSON takes about 1ms more** to process the same amount of data. The same advantage is in payload size where **BSON is about 15% smaller than JSON**.
 
 ##Big JSON - 921 KB
 Starting Test: Big JSON
